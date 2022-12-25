@@ -1,4 +1,4 @@
-# MapsKit
+# MapView
 
 [![](https://jitpack.io/v/ferhatozcelik/MapView.svg)](https://jitpack.io/#ferhatozcelik/MapView)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
